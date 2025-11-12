@@ -26,5 +26,3 @@ class Framework
 end
 
 Framework.call
-
-# ruby ./framework routes
